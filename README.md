@@ -1,10 +1,12 @@
 # Telegram bot starter based on [grammY](https://grammy.dev)
+# It's a copy of https://github.com/Borodutch/telegram-bot-starter
+
 
 Please, enjoy this starter template for Telegram bots based on [grammY](https://grammy.dev). It includes most common middlewares, MongoDB integration, language picker and internationalization and shows basic encapsulation techniques used by me.
 
 # Installation and local launch
 
-1. Clone this repo: `git clone https://github.com/Borodutch/telegram-bot-starter`
+1. Clone this repo: `git clone https://github.com/tonybolo/telegram-bot-starter`
 2. Launch the [mongo database](https://www.mongodb.com/) locally
 3. Create `.env` with the environment variables listed below
 4. Run `yarn` in the root folder
@@ -21,4 +23,4 @@ Also, please, consider looking at `.env.sample`.
 
 # License
 
-MIT — use for any purpose. Would be great if you could leave a note about the original developers. Thanks!
+MIT — use for any purpose. Would be great if you could leave a note about the original developers (Borodutch). Thanks!
